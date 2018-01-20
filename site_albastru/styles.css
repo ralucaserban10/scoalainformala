@@ -1,0 +1,31 @@
+body{
+    background-color: navy;
+}
+#title{
+    background-color:#444466;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+#line{
+    text-decoration: underline;
+    background-color: white;
+}
+#color{
+    background-color: #222244;
+}
+.heavy{ 
+    font-weight: bold;
+    text-align: center; 
+}
+#container{
+    margin:40px;
+    border-top-left-radius:20px;
+    border-top-right-radius: 20px;
+
+}
+#footer{
+    text-align: center;
+    background-color: red;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}

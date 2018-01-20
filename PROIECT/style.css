@@ -1,0 +1,36 @@
+.btn{
+    background-color: #264B09;
+    padding:20px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size:14;
+    color:white;
+    float:right;
+}
+
+.homepage{
+    font-size: 45px;
+    font-weight: bolder;
+    font-family: 'Lucinda Sans Unicode';
+    a:hover orange;
+}
+#body{
+    background-color: lightgoldenrodyellow;
+}
+.imagine{
+    float:left;
+    text-align: center;
+}
+.tbl{
+    border-collapse: collapse;
+    width:100%;
+
+}
+td, th{
+    border:1px solid lightslategray;
+    text-align:left;
+    padding:10px;
+}
+tr:nth-child(even){
+    background-color: lightslategray;
+}

@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+}
+#container{
+    border:40px;
+    margin:40px;
+}
+#title{
+    background-color: greenyellow;
+    border:200px;
+    padding:100px;
+    margin-bottom: 2px;
+}
+#content{
+    background-color: white;
+    border:200px;
+    padding:100px;
+
+}

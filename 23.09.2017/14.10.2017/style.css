@@ -1,0 +1,25 @@
+#agenda_wrapper{
+    background-color: yellow;
+    width: 70%;
+    margin:auto;
+    padding:20px;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+.titlu{
+    text-align: center;
+}
+.btn{
+    background: lightblue;
+    padding:10px;
+}
+#lista_wrapper{
+    background-color: yellow;
+    width:70%;
+    margin:auto;
+    padding:20px;
+    border-radius: 5px;
+    
+
+}
